@@ -1,0 +1,23 @@
+.todos{
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: #f5f5f5;
+    padding: 1.5em 1em;
+    margin-top: 1em;
+}
+
+.action-icons{
+    display: flex;
+    align-items: center;
+}
+
+p{
+    font-size: 1.2rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+i{
+    color: #4070fa;
+}
